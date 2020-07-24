@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-# fichier pour les robots du site https://valentinmeert.github.io/Projet4-/
-
-User-Agent: * 
-Allow: /*.css?* 
-Sitemap:http://www.sitemaps.org/schemas/sitemap/0.9
