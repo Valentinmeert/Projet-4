@@ -2308,7 +2308,9 @@ pre code {
         float: left
     }
     .col-sm-12 {
-        width: 100%
+        width: 100%;
+        font-size: 28px;
+        color: #575757;
     }
     .col-sm-11 {
         width: 91.66666667%
@@ -2622,13 +2624,17 @@ pre code {
         margin-left: 25%
     }
     .col-md-offset-2 {
-        margin-left: 16.66666667%
+        margin-left: 16.66666667%;
+        font-size: 22px;
     }
     .col-md-offset-1 {
         margin-left: 8.33333333%
     }
     .col-md-offset-0 {
         margin-left: 0
+    }
+    .col-md-offset-2>ul {
+        list-style:none;
     }
 }
 
