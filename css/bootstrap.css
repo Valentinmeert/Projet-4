@@ -2069,6 +2069,10 @@ pre code {
     padding-left: 15px
 }
 
+.col-sm-4>ul>li{
+    margin-bottom: 8px;
+}
+
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
