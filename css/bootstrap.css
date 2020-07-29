@@ -34,13 +34,13 @@ summary {
 
 
 a {
-    background-color: transparent
+    background-color: transparent;
 }
 
 
-b,
-strong {
-    font-weight: 700
+b
+{
+    font-weight: 500;
 }
 
 
