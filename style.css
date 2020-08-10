@@ -733,8 +733,13 @@ h3 {
 }
 
 h1 {
-    color:rgb(255, 177, 142)!important;
+    color:#ffb28e;
     text-shadow: 3px 1px 1px black;
+}
+
+h1.text-center.hero-bloc-text{
+    color: black;
+    text-shadow: none;
 }
 
 h4 {
